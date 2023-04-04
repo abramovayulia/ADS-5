@@ -4,7 +4,7 @@
 #include <string>
 
 template<typename T, int size>
-class TStack {
+class Tstack {
   // добавьте код стека
 class Tstack {
  private:
