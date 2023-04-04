@@ -48,7 +48,7 @@ std::string space123(const std::string& s) {
 std::string infx2pstfx(std::string inf) {
   // добавьте код
   return std::string("");
- }
+}
 
 int eval(std::string pref) {
   // добавьте код
