@@ -3,6 +3,7 @@
 #define INCLUDE_TSTACK_H_
 #include <string>
 
+
 template<typename T, int size>
 class Tstack {
  private:
