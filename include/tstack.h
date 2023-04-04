@@ -30,15 +30,15 @@ class TStack {
 
   bool isEmpty()const {
     return top == -1;
-}
+  }
 
   bool isFull()const {
     return top == size - 1;
-}
+  }
 
   const T& get()const {
     return arr[top];
-}
+  }
 };
 
 #endif  // INCLUDE_TSTACK_H_
