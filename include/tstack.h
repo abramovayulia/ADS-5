@@ -5,8 +5,6 @@
 
 template<typename T, int size>
 class Tstack {
-  // добавьте код стека
-class Tstack {
  private:
     T arr[100];
     int top;
